@@ -6,6 +6,16 @@ public class Repas{
 	this.numero = numero;
 	this.LocalDate = LocalDate;
 	}
-
+	public int getNumero(){
+		return numero
+	}
+	public void setNumero(){
+		this.numero = numero}
+	public LocalDate getDate(){
+		return date
+	}
+	public void setDate(){
+		this.Date = date
+	}
 
 }
